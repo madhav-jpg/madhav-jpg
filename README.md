@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as Research Intern at Space Applications Centre, ISRO
 - 🌱 I’m also working on projects related to stock market of India
-- ⚡ Portfolio: https://madhavkotecha.me/ 
+- ⚡ Portfolio: https://madhavkotecha.me/  or  https://madhav-jpg.github.io/
 - 📫 How to reach me: https://www.linkedin.com/in/madhav-kotecha
 - 😄 Pronouns: He/Him
 <!--
