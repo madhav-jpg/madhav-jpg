@@ -1,7 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working as Research Intern at Space Applications Centre, ISRO
+- 🌱 I’m also working on projects related to stock market of India
+- ⚡ Portfolio: https://madhavkotecha.me/ 
+- 📫 How to reach me: https://www.linkedin.com/in/madhav-kotecha
+- 😄 Pronouns: He/Him
 <!--
-**madhav-jpg/madhav-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**madhav-kotecha/madhav-kotecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
